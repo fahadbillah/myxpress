@@ -1,0 +1,12 @@
+{
+  "name": "myxpress",
+  "version": "0.0.0",
+  "description": "My Xpress Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello world"
+  },
+  "repository": "",
+  "author": "Fahad Billah",
+  "license": "MIT"
+}
